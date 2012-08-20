@@ -1,0 +1,8 @@
+comandos do git
+git init = inicializa o repositório local
+git status = óbvio
+git clone = clona um repositório remoto
+git add = Adiciona um arquivo para ser versionado
+git add .= Adiciona todos os arquivo para ser versionado, que foram alterados ou os que estão untracked
+
+
